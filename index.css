@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Paytone+One);
+
+#profile {
+  margin-top: 4em;
+  margin-left: 4em;
+}
+
+#upper-left-logo {
+  font-family: 'Paytone One', sans-serif;
+  /*color: white;*/
+  font-weight: 400;
+  font-size: 20px;
+}
+
+/*#my-top-bar {
+  background-color: #607D8B;
+}*/
+
+.screenshot {
+  width: 200px;
+  height: 200px;
+}
